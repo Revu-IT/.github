@@ -101,5 +101,7 @@
 <br><br>
 
 ### 🧬 시스템 구조도
-![image](https://github.com/user-attachments/assets/3a232ab3-9a57-47d6-9da4-f5863d955b69)
+<img width="6698" height="3025" alt="(최종) 전체 흐름도" src="https://github.com/user-attachments/assets/f2492832-bb22-47d4-83eb-16be0c1c1edc" />
+
+
 
